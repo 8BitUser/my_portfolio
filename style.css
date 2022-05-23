@@ -1,0 +1,13 @@
+img {
+    border-radius: 50%;
+}
+
+html {
+    font-size: 15px;
+    text-align: center;
+}
+
+body {
+    background: url('./assets/background.jpg');
+
+}

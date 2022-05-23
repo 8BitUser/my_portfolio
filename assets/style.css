@@ -1,8 +1,9 @@
+
+html {
+    font-size: 10px;
+}
+
 body {
-    background-color: pink;
+    background-color: rgb(233, 103, 124);
 }
 
-h1 {
-    color: red
-
-}
